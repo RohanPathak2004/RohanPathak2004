@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm 3rd year CSE student learning Web development<br>SKILLS<br>->FRONTEND:HTML,CSS, TAILWIND CSS, JAVASCRIPT, REACT<br>->BACKEND:JAVA, SPRING, SPRING BOOT<br>->DATABASE:POSTGRESQL, MYSQL
+I'm 3rd year CSE student learning Web development<br>SKILLS<br>->FRONTEND: HTML,CSS, TAILWIND CSS, JAVASCRIPT, REACT<br>->BACKEND: JAVA, SPRING, SPRING BOOT<br>->DATABASE: POSTGRESQL, MYSQL
 
 
 ## 🌐 Socials:
