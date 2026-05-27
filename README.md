@@ -1,4 +1,4 @@
-# 💫 About Me:
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3FF781&background=49FF7E00&width=435&lines=Hi%2C+I+am+Rohan+Pathak+!)](https://git.io/typing-svg)
 I'm 3rd year CSE student learning Web development<br>SKILLS<br>->FRONTEND: HTML,CSS, TAILWIND CSS, JAVASCRIPT, REACT<br>->BACKEND: JAVA, SPRING, SPRING BOOT<br>->DATABASE: POSTGRESQL, MYSQL
 
 
