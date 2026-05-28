@@ -55,41 +55,6 @@ public class Rohan {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RohanPathak2004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" width="48%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=RohanPathak2004&theme=tokyonight&hide_border=true" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanPathak2004&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="40%" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=RohanPathak2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=RohanPathak2004&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
-
-</div>
-
----
-
 ## ✍️ Dev Quote of the Day
 
 <div align="center">
