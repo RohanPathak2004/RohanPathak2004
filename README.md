@@ -2,10 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7EC67&background=49FF7E00&width=435&lines=Hi%2C+I+am+Rohan+Pathak+)](https://git.io/typing-svg)
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=RohanPathak2004&label=Profile+Views&color=58A6FF&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/RohanPathak2004?label=Followers&style=flat-square&color=58A6FF" />
-</p>
+
 
 </div>
 
